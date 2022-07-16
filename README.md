@@ -1,2 +1,2 @@
-# Assignment02
-JS Assignment 02
+# JS Assignment 02
+Assignment 02
